@@ -12,4 +12,5 @@ Technical:
 * Audio format: Ogg Vorbis? Flac? Not specified?
 * Manifest file?
 * Story: Twine story file? XML? Json?
+* Ability to specify not just files but timestamps in files (simple use case: single-file podcast with table of contents)
 * Container: Tar?
