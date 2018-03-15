@@ -1,4 +1,4 @@
-This repository aims to become a specification for a file format for an hyper~~text~~audio file format.
+This repository aims to become a specification for an hyper~~text~~audio file format.
 
 It will allow things like:
 * Songs with branching verses.
